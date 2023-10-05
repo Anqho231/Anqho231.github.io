@@ -1,26 +1,22 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
+<head>
+<title>Fruit Jams</title>
+</head>
 <body>
 
-<h1>Strawberry Jam</h1>
-<a href="index.html">
- <img src="depositphotos_5984662-stock-photo-strawberry-jam.jpeg" alt="more delicate strawberries"  height="400"> 
-</a>
+<h1>Looking for jams</h1>
 
-<p>Very pretty</p>
+<img src="thumbnail-Homemade-Blueberry-Jam-scaled.jpeg" alt="a picture of a jam">
 
-</body>
-</html> 
- <!DOCTYPE html>
-<html>
-<body>
+<p><a href="strawberry jam & bread.html"</a></p>
+<p><a href="raspberryjam.html">page 1</a></p>
 
-<h1>Sweet strawberry jam with strawberries</h1>
-<a href="index.html">
- <img src="intro-1672865295.jpeg" alt="beautiful arrangement of strawberries around the jam"  height="400"> 
-</a>
+<p><a href="raspberryjam.html"</a></p>
+<p><a href="strawberry jam & bread.html">google</a></p>
+<p><a href="strawberry jam with strawberries copy.html">google</a></p>
 
-<p>Delicious</p>
+<p>This is all about jams...</p>
 
 </body>
-</html> 
+</html>
